@@ -1,3 +1,4 @@
+app: kitty
 app: /terminal/
 app: cmd.exe
 app: iTerm2
